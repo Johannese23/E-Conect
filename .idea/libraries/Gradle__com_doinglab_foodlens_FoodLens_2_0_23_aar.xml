@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.doinglab.foodlens:FoodLens:2.0.23@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/FoodLens-2.0.23.aar/1c03b5aa0b3e1de72ab833549cfbe8e5/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/FoodLens-2.0.23.aar/1c03b5aa0b3e1de72ab833549cfbe8e5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/FoodLens-2.0.23.aar/1c03b5aa0b3e1de72ab833549cfbe8e5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/FoodLens-2.0.23.aar/1c03b5aa0b3e1de72ab833549cfbe8e5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
